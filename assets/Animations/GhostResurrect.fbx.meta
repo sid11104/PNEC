@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 580
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "339e4": {
+      "importer": "gltf-animation",
+      "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7@339e4",
+      "displayName": "",
+      "id": "339e4",
+      "name": "GhostResurrect.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8500000238418579
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 15
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cdf28": {
+      "importer": "gltf-material",
+      "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7@cdf28",
+      "displayName": "",
+      "id": "cdf28",
+      "name": "Material__25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fda98": {
+      "importer": "gltf-scene",
+      "uuid": "a7613393-2da0-459f-82a6-b3005ec80bf7@fda98",
+      "displayName": "",
+      "id": "fda98",
+      "name": "GhostResurrect.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "GhostResurrect",
+        "duration": 0.8500000238418579,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "GhostResurrect",
+            "from": 0,
+            "to": 0.8500000238418579,
+            "wrapMode": 2,
+            "previousId": "339e4"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a7613393-2da0-459f-82a6-b3005ec80bf7@a62fe"
+      ],
+      "skeletons": [
+        "a7613393-2da0-459f-82a6-b3005ec80bf7@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "a7613393-2da0-459f-82a6-b3005ec80bf7@cdf28"
+      ],
+      "scenes": [
+        "a7613393-2da0-459f-82a6-b3005ec80bf7@fda98"
+      ]
+    }
+  }
+}

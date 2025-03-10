@@ -1,0 +1,13 @@
+{
+  "name": "PocketNec",
+  "uuid": "44863bc6-0f0e-4f81-a075-72f33df737bf",
+  "creator": {
+    "version": "3.8.3",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "localization-editor": "1.0.1"
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 15
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39452": {
+      "importer": "gltf-mesh",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@39452",
+      "displayName": "",
+      "id": "39452",
+      "name": "Scene.002.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 50
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44826": {
+      "importer": "gltf-mesh",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@44826",
+      "displayName": "",
+      "id": "44826",
+      "name": "Scene.003.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1266
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 66
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40b15": {
+      "importer": "gltf-mesh",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@40b15",
+      "displayName": "",
+      "id": "40b15",
+      "name": "Scene.001.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70efb": {
+      "importer": "gltf-animation",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@70efb",
+      "displayName": "",
+      "id": "70efb",
+      "name": "B_Pelvis|B_Pelvis|Tough_Worker_walk|Animation Base Layer.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.350000023841858
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "79b4f": {
+      "importer": "gltf-animation",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@79b4f",
+      "displayName": "",
+      "id": "79b4f",
+      "name": "B_Pelvis|B_Pelvis|Worker_Attack|Animation Base Layer.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "0b112": {
+      "importer": "gltf-animation",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@0b112",
+      "displayName": "",
+      "id": "0b112",
+      "name": "B_Pelvis|B_Pelvis|Worker_Idle|Animation Base Layer.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.5833332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 15
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 15
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a33b7": {
+      "importer": "gltf-material",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@a33b7",
+      "displayName": "",
+      "id": "a33b7",
+      "name": "MAT_Enemy.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e6ea": {
+      "importer": "gltf-material",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@0e6ea",
+      "displayName": "",
+      "id": "0e6ea",
+      "name": "MAT_EnemyEyes.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc30b": {
+      "importer": "gltf-scene",
+      "uuid": "5b963d43-3874-4e81-9af2-e8bc67627eae@dc30b",
+      "displayName": "",
+      "id": "dc30b",
+      "name": "Tough_Worker_walk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "B_Pelvis|B_Pelvis|Tough_Worker_walk|Animation Base Layer",
+        "duration": 1.350000023841858,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "B_Pelvis|B_Pelvis|Tough_Worker_walk|Animation Base Layer",
+            "from": 0,
+            "to": 1.350000023841858,
+            "wrapMode": 2,
+            "previousId": "70efb"
+          }
+        ]
+      },
+      {
+        "name": "B_Pelvis|B_Pelvis|Worker_Attack|Animation Base Layer",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "B_Pelvis|B_Pelvis|Worker_Attack|Animation Base Layer",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "79b4f"
+          }
+        ]
+      },
+      {
+        "name": "B_Pelvis|B_Pelvis|Worker_Idle|Animation Base Layer",
+        "duration": 3.5833332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "B_Pelvis|B_Pelvis|Worker_Idle|Animation Base Layer",
+            "from": 0,
+            "to": 3.5833332538604736,
+            "wrapMode": 2,
+            "previousId": "0b112"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@a62fe",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@44826",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@39452",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@40b15"
+      ],
+      "skeletons": [
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@30732",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@f1394",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@75ee4"
+      ],
+      "textures": [],
+      "materials": [
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@a33b7",
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@0e6ea"
+      ],
+      "scenes": [
+        "5b963d43-3874-4e81-9af2-e8bc67627eae@dc30b"
+      ]
+    }
+  }
+}
